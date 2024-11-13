@@ -1,2 +1,2 @@
 # First_practice
-this is my first practice repository on git
+this is my first practice repository on git.
